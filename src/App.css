@@ -1,0 +1,39 @@
+.wrapper{
+  text-align: center;
+  align-items: center;
+}
+.todo-list{
+  padding: auto;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.Edit{
+  margin-left: 55px;
+    margin-right: -36px;
+    border: none;
+    border-radius: 13px;
+}
+.Delete{
+  margin-left: 55px;
+    margin-right: -36px;
+    border: none;
+    border-radius: 13px;
+}
+.list1{
+  background-color: grey;
+  border: none;
+}
+.MAIN{
+  border: 1px solid grey;
+  width: 500px;
+  margin: auto;
+  margin-top: 10px;
+}
+.para{
+  margin-top: -18px
+  px;
+  color: brown;
+}
